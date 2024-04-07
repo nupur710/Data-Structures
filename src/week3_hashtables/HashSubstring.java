@@ -1,4 +1,4 @@
-package week4_hashtables;
+package week3_hashtables;
 //Rabin Karp implementation
 import java.io.*;
 import java.util.*;
